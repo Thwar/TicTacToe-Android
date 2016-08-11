@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SimpleTicTacToeActivity!</string>
+    <string name="app_name">Simple Tic Tac Toe</string>
+    <string name="clear">Clear</string>
+    <string name="number">1</string>
+</resources>

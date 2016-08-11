@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-xhdpi/ic_launcher.png
+SHA1-Digest: UCzYT6RE8m1+z99KNVBkhnl38jY=
+
+Name: res/layout/main.xml
+SHA1-Digest: tQXZEqAdDcG4mbYDdt3UK2CDne4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: +1ZYxScIXM+kNwu6EhjIAkoZGzk=
+
+Name: res/drawable-xhdpi/white.png
+SHA1-Digest: w8UN5oAo6vQrdwQodtfGEw2V9D4=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: I3MP0NXnINH3Gb4a/IxI+nMF2mw=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: RQ09RDJf3yWYEKYOavo2ED4Yaz0=
+
+Name: res/raw/click.mp3
+SHA1-Digest: IQ99HwPBuCU2J03f2KgBb3g4kiU=
+
+Name: resources.arsc
+SHA1-Digest: mrKE+dB1FXhhEcF669McNJLV1+c=
+
+Name: classes.dex
+SHA1-Digest: WagQ/X+XVC2xK7rhGclYuRW8EYE=
+
+Name: res/drawable-xhdpi/x.png
+SHA1-Digest: la6a3svqnTI9NKw2KZgWYIOZQMs=
+
+Name: res/drawable-xhdpi/o.png
+SHA1-Digest: R12ftOYKWAxFD+9Lw5vkKCCrThc=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: CepliFtAgOUV73Bk6BbHeZHAdXs=
+
